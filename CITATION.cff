@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: Please cite this software project if you use it.
+title: ChemLoop Studio
+authors:
+  - family-names: Beycan
+    given-names: Burhan
+year: 2026
+license: MIT
+url: https://github.com/burhanbeycan/chemloop-studio
